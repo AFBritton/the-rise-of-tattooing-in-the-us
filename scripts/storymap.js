@@ -87,7 +87,6 @@ $(window).on('load', function() {
     L.tileLayer.provider('MapBox', {
     id: 'mapbox://styles/afbritton/cltn87gku019j01pt0ubl03hz',
     accessToken: 'pk.eyJ1IjoiYWZicml0dG9uIiwiYSI6ImNsc2o5dHJiZjJtNG0ya3NiejJ0aGY3aTIifQ.CpEhplf3l6JfoSpf9_GD5Q'
-}).addTo(map);
       
       // Pass the api key to most commonly used parameters
       apiKey: trySetting('_tileProviderApiKey', ''),
