@@ -1,0 +1,807 @@
+{
+    "businesses": [
+      {
+        "id": "_obKDLVPs6pB4-h2Fohm9w",
+        "alias": "new-rose-tattoo-portland",
+        "name": "New Rose Tattoo",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ht6BAuMFJ_tyulqnv8p23w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/new-rose-tattoo-portland?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 227,
+        "categories": [
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          }
+        ],
+        "rating": 4.8,
+        "coordinates": {
+          "latitude": 45.5053149,
+          "longitude": -122.6126493
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "4823 SE Division St",
+          "address2": null,
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97206",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "4823 SE Division St",
+            "Portland, OR 97206"
+          ]
+        },
+        "phone": "+15032367878",
+        "display_phone": "(503) 236-7878",
+        "distance": 3434.3948906320884
+      },
+      {
+        "id": "WWCmTXq6JKc7otd-Oo-Hpw",
+        "alias": "straight-to-the-point-portland",
+        "name": "Straight To the Point",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Fn8fN_HN5H0RIgX4u-4ltw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/straight-to-the-point-portland?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 235,
+        "categories": [
+          {
+            "alias": "piercing",
+            "title": "Piercing"
+          }
+        ],
+        "rating": 4.8,
+        "coordinates": {
+          "latitude": 45.52039,
+          "longitude": -122.67407
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "322 SW 3rd Ave",
+          "address2": "",
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97204",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "322 SW 3rd Ave",
+            "Portland, OR 97204"
+          ]
+        },
+        "phone": "+15032431127",
+        "display_phone": "(503) 243-1127",
+        "distance": 1634.1447977757327
+      },
+      {
+        "id": "D5vcTIXa1szX29XakQU6wA",
+        "alias": "atlas-tattoo-studio-portland",
+        "name": "Atlas Tattoo Studio",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cTZCBlamGepoK3LgGXU8RA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/atlas-tattoo-studio-portland?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 132,
+        "categories": [
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          }
+        ],
+        "rating": 4.8,
+        "coordinates": {
+          "latitude": 45.5561218261719,
+          "longitude": -122.675262451172
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "4543 N Albina Ave",
+          "address2": "",
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97217",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "4543 N Albina Ave",
+            "Portland, OR 97217"
+          ]
+        },
+        "phone": "+15032817499",
+        "display_phone": "(503) 281-7499",
+        "distance": 4775.591266190933
+      },
+      {
+        "id": "BMzQjvyrleJ5xrEKB5vjjA",
+        "alias": "hopeless-ink-tattoo-vancouver-2",
+        "name": "Hopeless Ink Tattoo",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BIxwYAb8vBV2K0G5D2F69A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hopeless-ink-tattoo-vancouver-2?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 130,
+        "categories": [
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          },
+          {
+            "alias": "piercing",
+            "title": "Piercing"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 45.638432,
+          "longitude": -122.671603
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "2308 Main St",
+          "address2": null,
+          "address3": null,
+          "city": "Vancouver",
+          "zip_code": "98660",
+          "country": "US",
+          "state": "WA",
+          "display_address": [
+            "2308 Main St",
+            "Vancouver, WA 98660"
+          ]
+        },
+        "phone": "+13602131818",
+        "display_phone": "(360) 213-1818",
+        "distance": 13705.428191397335
+      },
+      {
+        "id": "Ef0TzVjjeCuorpCNEtDs4g",
+        "alias": "scapegoat-tattoo-portland",
+        "name": "Scapegoat Tattoo",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sEIOtoJsznrVcvW8eaLzdQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/scapegoat-tattoo-portland?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 89,
+        "categories": [
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 45.5194586716526,
+          "longitude": -122.65308380127
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "1223 SE Stark St",
+          "address2": "",
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97214",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "1223 SE Stark St",
+            "Portland, OR 97214"
+          ]
+        },
+        "phone": "+15032324628",
+        "display_phone": "(503) 232-4628",
+        "distance": 416.25757138186594
+      },
+      {
+        "id": "nPbS3s5p2tr0hnk5HG3iWA",
+        "alias": "ever-true-tattoo-portland",
+        "name": "Ever True Tattoo",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ysx1mEx-3gv9i_cOaER-DA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ever-true-tattoo-portland?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 64,
+        "categories": [
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          }
+        ],
+        "rating": 4.8,
+        "coordinates": {
+          "latitude": 45.5222056,
+          "longitude": -122.6726377
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "213 SW Ash St",
+          "address2": "Ste 206",
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97204",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "213 SW Ash St",
+            "Ste 206",
+            "Portland, OR 97204"
+          ]
+        },
+        "phone": "+19715635093",
+        "display_phone": "(971) 563-5093",
+        "distance": 1610.1337222750853
+      },
+      {
+        "id": "_zPE3YxJwTuemIPf2FWSLA",
+        "alias": "black-hole-body-piercing-and-tattoo-portland",
+        "name": "Black Hole Body Piercing & Tattoo",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1H-tq7wY6GREQNTqQFT7fw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/black-hole-body-piercing-and-tattoo-portland?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 280,
+        "categories": [
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          },
+          {
+            "alias": "piercing",
+            "title": "Piercing"
+          }
+        ],
+        "rating": 4.7,
+        "coordinates": {
+          "latitude": 45.52623,
+          "longitude": -122.63491
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "2946 NE Glisan St",
+          "address2": "",
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97232",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "2946 NE Glisan St",
+            "Portland, OR 97232"
+          ]
+        },
+        "phone": "+15032310712",
+        "display_phone": "(503) 231-0712",
+        "distance": 1899.6422682566322
+      },
+      {
+        "id": "Uedl_x_Rtm1CwUUUgnXg1g",
+        "alias": "gold-sparrow-tattoo-portland",
+        "name": "Gold Sparrow Tattoo",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DZbI7ZlV_RlSFrzvj54AEw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/gold-sparrow-tattoo-portland?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 29,
+        "categories": [
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          }
+        ],
+        "rating": 5,
+        "coordinates": {
+          "latitude": 45.54782970962206,
+          "longitude": -122.62055544662346
+        },
+        "transactions": [],
+        "location": {
+          "address1": "3430 NE 41st Ave",
+          "address2": null,
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97212",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "3430 NE 41st Ave",
+            "Portland, OR 97212"
+          ]
+        },
+        "phone": "+15033278885",
+        "display_phone": "(503) 327-8885",
+        "distance": 4419.159360430251
+      },
+      {
+        "id": "VIMMV6Txroj2UtK_PGG4aA",
+        "alias": "ritual-arts-tattoo-and-body-piercing-portland",
+        "name": "Ritual Arts Tattoo and Body Piercing",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gJuMLpsgzPeGcKlSZCLDNA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ritual-arts-tattoo-and-body-piercing-portland?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 177,
+        "categories": [
+          {
+            "alias": "piercing",
+            "title": "Piercing"
+          },
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          },
+          {
+            "alias": "jewelry",
+            "title": "Jewelry"
+          }
+        ],
+        "rating": 4.9,
+        "coordinates": {
+          "latitude": 45.53721,
+          "longitude": -122.62023
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "2005 NE 42nd Ave",
+          "address2": "",
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97213",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "2005 NE 42nd Ave",
+            "Portland, OR 97213"
+          ]
+        },
+        "phone": "+15033842551",
+        "display_phone": "(503) 384-2551",
+        "distance": 3565.292094161625
+      },
+      {
+        "id": "r9FpfiZSnlNzpL3_a09mOQ",
+        "alias": "skin-city-tattoo-and-body-piercing-tigard",
+        "name": "Skin City Tattoo and Body Piercing",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/n0OFoanGQi3nFF6k7DfThw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/skin-city-tattoo-and-body-piercing-tigard?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 242,
+        "categories": [
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          },
+          {
+            "alias": "piercing",
+            "title": "Piercing"
+          },
+          {
+            "alias": "galleries",
+            "title": "Art Galleries"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 45.4343589239631,
+          "longitude": -122.766518127786
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "11945 SW Pacific Hwy",
+          "address2": "",
+          "address3": "",
+          "city": "Tigard",
+          "zip_code": "97223",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "11945 SW Pacific Hwy",
+            "Tigard, OR 97223"
+          ]
+        },
+        "phone": "+15036241719",
+        "display_phone": "(503) 624-1719",
+        "distance": 12601.309253492867
+      },
+      {
+        "id": "dO0HZttmh-4ZIA96L5zmAw",
+        "alias": "tattoo-34-portland",
+        "name": "Tattoo 34",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GgKmX8PhxgTGEaBd7BxYfA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tattoo-34-portland?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 60,
+        "categories": [
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          }
+        ],
+        "rating": 4.9,
+        "coordinates": {
+          "latitude": 45.5122802,
+          "longitude": -122.6203464
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "4035 SE Hawthorne Blvd",
+          "address2": "",
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97214",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "4035 SE Hawthorne Blvd",
+            "Portland, OR 97214"
+          ]
+        },
+        "phone": "+15032353606",
+        "display_phone": "(503) 235-3606",
+        "distance": 2659.799392191338
+      },
+      {
+        "id": "PguqMiZaienH-lNW27d3KQ",
+        "alias": "art-work-rebels-portland",
+        "name": "Art Work Rebels",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/g22NZjeNmMWDgyKJIee1xA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/art-work-rebels-portland?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 93,
+        "categories": [
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          }
+        ],
+        "rating": 4.7,
+        "coordinates": {
+          "latitude": 45.519101,
+          "longitude": -122.674841
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "528 SW 3rd Ave",
+          "address2": "",
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97204",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "528 SW 3rd Ave",
+            "Portland, OR 97204"
+          ]
+        },
+        "phone": "+15034776190",
+        "display_phone": "(503) 477-6190",
+        "distance": 1656.4762497814138
+      },
+      {
+        "id": "70CEd_EOQRBOlxDFzgSiEQ",
+        "alias": "wallflower-tattoo-portland",
+        "name": "Wallflower Tattoo",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H_G7kC0zWHyfqfU5zzeKVg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/wallflower-tattoo-portland?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 7,
+        "categories": [
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          }
+        ],
+        "rating": 5,
+        "coordinates": {
+          "latitude": 45.52265,
+          "longitude": -122.63428
+        },
+        "transactions": [],
+        "location": {
+          "address1": "3028 E Burnside",
+          "address2": null,
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97214",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "3028 E Burnside",
+            "Portland, OR 97214"
+          ]
+        },
+        "phone": "+19717702338",
+        "display_phone": "(971) 770-2338",
+        "distance": 1728.9958179455018
+      },
+      {
+        "id": "-4Z59rGncfATbhgxJiYSpw",
+        "alias": "the-electric-buffalo-tattoo-portland-3",
+        "name": "The Electric Buffalo Tattoo",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pkMPwQmNHAL1kTETRD5cKw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-electric-buffalo-tattoo-portland-3?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 7,
+        "categories": [
+          {
+            "alias": "permanentmakeup",
+            "title": "Permanent Makeup"
+          },
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          }
+        ],
+        "rating": 5,
+        "coordinates": {
+          "latitude": 45.53401734936001,
+          "longitude": -122.6887653484007
+        },
+        "transactions": [],
+        "location": {
+          "address1": "1722 NW Raleigh St",
+          "address2": "Ste 204",
+          "address3": null,
+          "city": "Portland",
+          "zip_code": "97209",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "1722 NW Raleigh St",
+            "Ste 204",
+            "Portland, OR 97209"
+          ]
+        },
+        "phone": "+19493000610",
+        "display_phone": "(949) 300-0610",
+        "distance": 3375.948974471563
+      },
+      {
+        "id": "dweY3vgBGkixmLfaRp5ftQ",
+        "alias": "robot-piercing-tattoo-portland",
+        "name": "Robot Piercing + Tattoo",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PFPVPjByBN2aM5vMjzZp7Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/robot-piercing-tattoo-portland?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 190,
+        "categories": [
+          {
+            "alias": "piercing",
+            "title": "Piercing"
+          },
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          }
+        ],
+        "rating": 4.4,
+        "coordinates": {
+          "latitude": 45.52713211173566,
+          "longitude": -122.69837884613816
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "602 NW 23rd Ave",
+          "address2": "",
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97210",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "602 NW 23rd Ave",
+            "Portland, OR 97210"
+          ]
+        },
+        "phone": "+15032249916",
+        "display_phone": "(503) 224-9916",
+        "distance": 3672.1476908433665
+      },
+      {
+        "id": "8cDaKn7N1zaTCQmBlF47Wg",
+        "alias": "hidden-rose-tattoo-portland",
+        "name": "Hidden Rose Tattoo",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rzOGzs-WZoxOd7BA65P54g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hidden-rose-tattoo-portland?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 49,
+        "categories": [
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 45.52694219244428,
+          "longitude": -122.69429783286714
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "526 NW 21st Ave.",
+          "address2": "",
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97209",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "526 NW 21st Ave.",
+            "Portland, OR 97209"
+          ]
+        },
+        "phone": "+15037195923",
+        "display_phone": "(503) 719-5923",
+        "distance": 3367.4971554869826
+      },
+      {
+        "id": "FCOIcPR_PN3S05FQPlJAKg",
+        "alias": "opal-ink-portland-2",
+        "name": "Opal Ink",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rR83s2fJ87VKA3pKzcTIbA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/opal-ink-portland-2?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 17,
+        "categories": [
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          }
+        ],
+        "rating": 5,
+        "coordinates": {
+          "latitude": 45.4631195,
+          "longitude": -122.6533127
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "8235 SE 13th Ave",
+          "address2": "",
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97202",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "8235 SE 13th Ave",
+            "Portland, OR 97202"
+          ]
+        },
+        "phone": "+19713406286",
+        "display_phone": "(971) 340-6286",
+        "distance": 5867.250369671168
+      },
+      {
+        "id": "7-wD_iOh56rJPy-u9ICtmQ",
+        "alias": "suite-c-tattoo-portland",
+        "name": "Suite C Tattoo",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IU5cpeBeLU-T5MV8-RPnpw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/suite-c-tattoo-portland?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 24,
+        "categories": [
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          }
+        ],
+        "rating": 4.8,
+        "coordinates": {
+          "latitude": 45.492588,
+          "longitude": -122.601593
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "4144 SE 60th Ave",
+          "address2": "Ste C",
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97206",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "4144 SE 60th Ave",
+            "Ste C",
+            "Portland, OR 97206"
+          ]
+        },
+        "phone": "+15037752932",
+        "display_phone": "(503) 775-2932",
+        "distance": 4842.262854047631
+      },
+      {
+        "id": "ncwx8pe5Cw2pGqSumsHdeA",
+        "alias": "adorn-body-art-east-portland-2",
+        "name": "Adorn Body Art East",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aL4EGw1eAQ7jJmt-1fOokg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/adorn-body-art-east-portland-2?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 340,
+        "categories": [
+          {
+            "alias": "piercing",
+            "title": "Piercing"
+          },
+          {
+            "alias": "jewelry",
+            "title": "Jewelry"
+          }
+        ],
+        "rating": 4.6,
+        "coordinates": {
+          "latitude": 45.5122687,
+          "longitude": -122.6220478
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "3941 SE Hawthorne Blvd",
+          "address2": "",
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97214",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "3941 SE Hawthorne Blvd",
+            "Portland, OR 97214"
+          ]
+        },
+        "phone": "+15032326222",
+        "display_phone": "(503) 232-6222",
+        "distance": 2528.9329937359585
+      },
+      {
+        "id": "WBDdmjyGSwe10JK-saQHww",
+        "alias": "the-little-tattoo-shoppe-portland",
+        "name": "The Little Tattoo Shoppe",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BLX6wAkQ43vVz_AuqSA5Ow/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-little-tattoo-shoppe-portland?adjust_creative=XDbfD0ktJ4793BiEwicmWw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=XDbfD0ktJ4793BiEwicmWw",
+        "review_count": 45,
+        "categories": [
+          {
+            "alias": "tattoo",
+            "title": "Tattoo"
+          }
+        ],
+        "rating": 4.9,
+        "coordinates": {
+          "latitude": 45.5483894,
+          "longitude": -122.6524963
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+          "address1": "1323 NE Fremont St",
+          "address2": "",
+          "address3": "",
+          "city": "Portland",
+          "zip_code": "97212",
+          "country": "US",
+          "state": "OR",
+          "display_address": [
+            "1323 NE Fremont St",
+            "Portland, OR 97212"
+          ]
+        },
+        "phone": "+15032885341",
+        "display_phone": "(503) 288-5341",
+        "distance": 3612.8307112331604
+      }
+    ],
+    "total": 290,
+    "region": {
+      "center": {
+        "longitude": -122.65411376953125,
+        "latitude": 45.515785397030584
+      }
+    }
+  }
