@@ -82,16 +82,19 @@ $(window).on('load', function() {
   /**
    * Loads the basemap and adds it to the map
    */
-function addBaseMap() {
-    var basemap = 'mapbox://styles/afbritton/cltn87gku019j01pt0ubl03hz';
-    var accessToken = 'pk.eyJ1IjoiYWZicml0dG9uIiwiYSI6ImNsc2o5dHJiZjJtNG0ya3NiejJ0aGY3aTIifQ.CpEhplf3l6JfoSpf9_GD5Q';
-    
-    L.tileLayer(basemap, {
-        maxZoom: 18,
-        attribution: 'Map data &copy; <a href="https://www.mapbox.com/">Mapbox</a>',
-        accessToken: accessToken
+  function addBaseMap() {
+    var basemap = trySetting('_tileProvider', 'Stamen.TonerLite');
+    L.tileLayer.provider(basemap, {
+      maxZoom: 18,
+      
+      // Pass the api key to most commonly used parameters
+      apiKey: trySetting('_tileProviderApiKey', ''),
+      apikey: trySetting('_tileProviderApiKey', ''),
+      key: trySetting('_tileProviderApiKey', ''),
+      accessToken: trySetting('_tileProviderApiKey', '')
     }).addTo(map);
-}
+  }
+
 
   function initMap(options, chapters) {
     createDocumentSettings(options);
