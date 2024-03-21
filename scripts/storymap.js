@@ -82,11 +82,10 @@ $(window).on('load', function() {
   /**
    * Loads the basemap and adds it to the map
    */
-  function addBaseMap() {
-    var basemap = trySetting('_tileProvider', 'Mapbox');
-    L.tileLayer.provider('MapBox', {
-    id: 'mapbox://styles/afbritton/cltn87gku019j01pt0ubl03hz',
-    accessToken: 'pk.eyJ1IjoiYWZicml0dG9uIiwiYSI6ImNsc2o5dHJiZjJtNG0ya3NiejJ0aGY3aTIifQ.CpEhplf3l6JfoSpf9_GD5Q'
+   function addBaseMap() {
+    var basemap = trySetting('_tileProvider', 'Stamen.TonerLite');
+    L.tileLayer.provider(basemap, {
+      maxZoom: 18,
       
       // Pass the api key to most commonly used parameters
       apiKey: trySetting('_tileProviderApiKey', ''),
